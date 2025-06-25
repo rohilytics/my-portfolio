@@ -22,7 +22,7 @@ function Project() {
             target="_blank"
             rel="noreferrer"
           >
-            <h2>Netflix Content Analysis</h2>
+            <h2>Netflix Exploratory Data Analysis</h2>
           </a>
           <p>
             Conducted in-depth exploratory data analysis on Netflix’s content
@@ -45,7 +45,7 @@ function Project() {
             target="_blank"
             rel="noreferrer"
           >
-            <h2>Cyclistic bike-share case study analysis</h2>
+            <h2>Case Study: Data Analysis of Cyclistic Bike Rental</h2>
           </a>
           <p>
             Analyzed one year of bike-share data to uncover usage patterns

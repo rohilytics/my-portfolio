@@ -24,7 +24,7 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">
-              Working Student – Data Analyst - Equity
+              Research Internship – Equity Analysis with AI
             </h3>
             <h5 className="vertical-timeline-element-subtitle">
               Universität Koblenz - Koblenz, Germany
@@ -37,11 +37,13 @@ function Timeline() {
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="04/2021 – 05/2022"
+            date="09/2020 – 02/2021"
             iconStyle={{ background: "#235789", color: "rgb(39, 40, 34)" }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Data Analyst</h3>
+            <h3 className="vertical-timeline-element-title">
+              Data Analyst Intern
+            </h3>
             <h5 className="vertical-timeline-element-subtitle">
               Zymr, Inc. - Pune, India
             </h5>
@@ -49,23 +51,6 @@ function Timeline() {
               Data extraction, cleaning, SQL, Python (Pandas), Tableau
               dashboards, anomaly detection, trend analysis, workflow
               optimization, real-time analytics.
-            </p>
-          </VerticalTimelineElement>
-          <VerticalTimelineElement
-            className="vertical-timeline-element--work"
-            date="09/2020 – 02/2021"
-            iconStyle={{ background: "#235789", color: "rgb(39, 40, 34)" }}
-            icon={<FontAwesomeIcon icon={faBriefcase} />}
-          >
-            <h3 className="vertical-timeline-element-title">
-              Data Science Intern
-            </h3>
-            <h5 className="vertical-timeline-element-subtitle">
-              Zymr, Inc. - Pune, India
-            </h5>
-            <p>
-              User engagement analysis, A/B testing, retention improvement, user
-              journey analysis, UX optimization.
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>
